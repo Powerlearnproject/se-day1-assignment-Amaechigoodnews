@@ -10,7 +10,9 @@ Software engineering is a systematic approach to designing, developing, testing,
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-Structured Programming (1960s-1970s): Introduced a disciplined approach to coding that emphasized the use of clear and logical control structures (like loops and conditionals), which improved program readability and maintainability.Object-Oriented Programming (1980s-1990s): This paradigm shifted focus to objects, which encapsulate data and behavior. It enabled more modular and reusable code, facilitating the development of complex systems.Agile Methodology (2001): The publication of the Agile Manifesto marked a significant shift towards iterative development, customer collaboration, and flexibility in responding to change. Agile methodologies, like Scrum and Kanban, have become dominant in software development.
+Structured Programming (1960s-1970s): Introduced a disciplined approach to coding that emphasized the use of clear and logical control structures (like loops and conditionals), which improved program readability and maintainability.
+Object-Oriented Programming (1980s-1990s): This paradigm shifted focus to objects, which encapsulate data and behavior. It enabled more modular and reusable code, facilitating the development of complex systems.
+Agile Methodology (2001): The publication of the Agile Manifesto marked a significant shift towards iterative development, customer collaboration, and flexibility in responding to change. Agile methodologies, like Scrum and Kanban, have become dominant in software development.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
